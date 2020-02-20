@@ -9,6 +9,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "@serialport/parser-readline": "^8.0.6",
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1",
+    "express-favicon": "^2.0.1",
+    "express-session": "^1.17.0",
+    "fontawesome": "^5.6.3",
+    "jquery": "^3.4.1",
+    "popper": "^1.0.1",
+    "popper.js": "^1.16.1",
+    "serialport": "^8.0.7",
+    "session-file-store": "^1.4.0",
+    "sqlite3": "^4.1.1"
   }
 }
